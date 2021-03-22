@@ -164,15 +164,12 @@ client.on('message', (message) => {
 
 });
 
-client.on('guildCreate', () => {
-  channel.send('Hi guyyyys! its yo manager');
-  insult();
-});
-
 client.once('ready', () => {
   console.log("BOT ONLINE");
 
   client.channels.cache.forEach(v => v.name === 'general' ? channel = v : null);
+  channel.send('Hi guyyyys! its yo manager');
+  insult();
 
   schedule.scheduleJob(`*/${process.env.INSULT_INTERVAL} * * * *`, insult);
 });
