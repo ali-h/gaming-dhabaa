@@ -1,0 +1,24 @@
+{
+  "name": "gaming-dhabaa",
+  "version": "0.1.0",
+  "description": "Discord bot for the Unruly Gaming Dhabaa",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali-h/gaming-dhabaa.git"
+  },
+  "author": "Ali H",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ali-h/gaming-dhabaa/issues"
+  },
+  "homepage": "https://github.com/ali-h/gaming-dhabaa#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "node-schedule": "^2.0.0"
+  }
+}
