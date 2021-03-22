@@ -12,6 +12,7 @@ let saranya = null;
 let doBakwas = true;
 
 const insults = [
+  'Dr. Mr. Shahan The Unruly Eagle',
   'Hi wasted satisfaction',
   'You are a disappointment, bhool to nhi gya?',
   'Chutiya',
@@ -20,8 +21,12 @@ const insults = [
   'Tujhy uss din beh jana chahiye tha',
   'A good asshole',
   'You are a disappointment, bhool to nhi gya?',
+  'Dr. Mr. Shahan The Unruly Eagle',
   'The only women to tell you she loves you is your mom (doubtfully)',
   'HELLO MF',
+  'Dr. Mr. Shahan The Unruly Eagle',
+  'Dr. Mr. Shahan The Unruly Eagle',
+  'Dr. Mr. Shahan The Unruly Eagle',
   'Anyone willing to fuck you is just too lazy to masturbate',
   'HELLO MF',
   'Seeing ya face tera left hand bhi tujh sy relationship me nhi rehna chahta',
@@ -29,6 +34,7 @@ const insults = [
   'A good asshole',
   'HELLO MF',
   'You are a disappointment, bhool to nhi gya?',
+  'Dr. Mr. Shahan The Unruly Eagle',
   'HELLO MF',
   'Chutiya',
   'Chutiya',
