@@ -61,7 +61,7 @@ client.on('message', (message) => {
   let command = args.shift().toLowerCase();
 
   switch (command) {
-    case 'greet-saranya':
+    case 's':
       const saranyaGreetWords = [
         'Sawadee ka!',
         'waddaappp gamer girl!!',
