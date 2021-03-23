@@ -123,6 +123,7 @@ client.on('message', (message) => {
 
 client.once('ready', () => {
   console.log("BOT ONLINE");
+  client.user.setActivity(`Shahan fail in life`, { type: 'WATCHING' });
 
   client.channels.cache.forEach(v => v.name === 'general' ? channel = v : null);
   channel.send('Hi guyyyys! its yo manager');
